@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>com.igola</groupId>
+  <artifactId>hotel-supplier-api</artifactId>
+  <version>0.1.5.1-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <localCopy>true</localCopy>
+    </snapshot>
+    <lastUpdated>20181031082318</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>0.1.5.1-SNAPSHOT</value>
+        <updated>20181031082318</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>0.1.5.1-SNAPSHOT</value>
+        <updated>20181031082318</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>

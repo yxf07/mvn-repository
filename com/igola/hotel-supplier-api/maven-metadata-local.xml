@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.igola</groupId>
+  <artifactId>hotel-supplier-api</artifactId>
+  <versioning>
+    <versions>
+      <version>0.1.5.1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20181031082318</lastUpdated>
+  </versioning>
+</metadata>

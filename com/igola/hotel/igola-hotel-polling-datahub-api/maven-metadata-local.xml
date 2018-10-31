@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.igola.hotel</groupId>
+  <artifactId>igola-hotel-polling-datahub-api</artifactId>
+  <versioning>
+    <versions>
+      <version>0.0.18-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20181031081918</lastUpdated>
+  </versioning>
+</metadata>
